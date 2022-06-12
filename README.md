@@ -25,14 +25,14 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img align="right" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"  width="30px" height="30px"/> </a>
-<img align="right" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="right" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /> </a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer" > <img align="right" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="30px" height="30px" align="right" style="padding-right:10px;"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="right" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30px" height="30px"/> </a>
-<img align="right" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="right" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="right" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="right" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="right" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img align="right" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="right" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> </a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img align="right" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="right" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="right" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrteymurov&show_icons=true&locale=en&layout=compact" alt="mrteymurov" /></p>
 
