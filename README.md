@@ -24,7 +24,7 @@
 </p>
 
 <h3 align="right" style="display:"inline-block";">Languages and Tools:</h3>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img align="right" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"  width="30px" height="30px"/> </a>
 <img align="right" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer" > <img align="right" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="30px" height="30px" align="right" style="padding-right:10px;"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="right" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30px" height="30px"/> </a>
