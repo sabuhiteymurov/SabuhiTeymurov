@@ -3,7 +3,9 @@
     width='30'
   /></h1> 
 <h3 align="center">A passionate frontend developer</h3>
-
+<br>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<br>
 <p align="left"> <a href="https://twitter.com/mr_teymurov" target="blank"><img src="https://img.shields.io/twitter/follow/mr_teymurov?logo=twitter&style=for-the-badge" alt="mr_teymurov" /></a> </p>
 
 
@@ -15,28 +17,14 @@
 
 - 📫 How to reach me **teymurovsabuhi@gmail.com**
 
-### Connect with me:
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mr_teymurov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_teymurov" height="30" width="40" /></a>
+<a href="https://instagram.com/teymurov740" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teymurov740" height="30" width="40" /></a>
+</p>
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Mr_Teymurov#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Mr_Teymurov#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/teymurov740/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/teymurov740/#gh-dark-mode-only)
 
 <h3 align="left">Languages and Tools:</h3><img align="left" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="26px" height="26px"/>
 
@@ -59,15 +47,5 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mrteymurov&" alt="mrteymurov" /></p>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 
