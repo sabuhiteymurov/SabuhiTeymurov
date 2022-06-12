@@ -23,7 +23,7 @@
 <a href="https://instagram.com/teymurov740" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teymurov740" height="30" width="40" /></a>
 </p>
 
-<h3 style="margin-left:500px;">Languages and Tools:</h3>
+<p style="padding-left:100px;">Languages and Tools:</p>
 <img align="right" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30px" height="30px" style="padding-right:10px;"/>
 <img align="right" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="right" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
