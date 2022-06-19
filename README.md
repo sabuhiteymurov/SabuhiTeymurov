@@ -34,6 +34,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="right" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="right" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /> </a>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mrteymurov&label=Profile%20views&color=0e75b6&style=flat" alt="mrteymurov" /> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrteymurov&show_icons=true&locale=en&layout=compact" alt="mrteymurov" /></p>
 
 <!-- 
