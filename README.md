@@ -2,7 +2,7 @@
     src='https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430'
     width='30'
   /></h1> 
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate front-end web developer</h3>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 <br>
 <p align="left"> <a href="https://twitter.com/mr_teymurov" target="blank"><img src="https://img.shields.io/twitter/follow/mr_teymurov?logo=twitter&style=for-the-badge" alt="mr_teymurov" /></a> </p>
