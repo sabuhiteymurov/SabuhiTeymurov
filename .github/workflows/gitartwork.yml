@@ -14,5 +14,5 @@ jobs:
           # Use this username's contribution graph
           user_name: sabuhiteymurov
           # Text on contribution graph
-          text: IAMSABUHI
+          text: I'M SABUHI
       - uses: jasineri/simple-push-action@v1
