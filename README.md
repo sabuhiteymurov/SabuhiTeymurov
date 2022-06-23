@@ -4,7 +4,7 @@
   /></h1> 
 <h3 align="center">A passionate front-end web developer</h3>
 
- ![gitartwork](gitartwork.svg)
+ 
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 <br>
