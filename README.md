@@ -7,7 +7,6 @@
 <br>
 <p align="left"> <a href="https://twitter.com/mr_teymurov" target="blank"><img src="https://img.shields.io/twitter/follow/mr_teymurov?logo=twitter&style=for-the-badge" alt="mr_teymurov" /></a> </p>
 
-
 - 🔭 I’m currently working on **a private project**
 
 - 🌱 I’m currently learning **Node.js, Next.js**
@@ -22,6 +21,8 @@
 <a href="https://linkedin.com/in/sabuhi-teymurov-462097243" target="blank"><img align="center" style="margin-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabuhi-teymurov-462097243" height="30" width="40" /></a>
 <a href="https://twitter.com/mr_teymurov" target="blank"><img align="center" style="margin-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_teymurov" height="30" width="40" /></a>
 <a href="https://instagram.com/teymurov740" target="blank"><img align="center" style="margin-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teymurov740" height="30" width="40" /></a>
+<a href="https://instagram.com/teymurov740" target="blank"><img align="center" style="margin-right:10px" src="https://images.app.goo.gl/psW7hMQeW57H5DNR6" alt="teymurov740" height="30" width="40" /></a>
+<a href="https://10fastfingers.com/user/2843502/" target="blank"><img align="center" style="margin-right:10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLu0sfFZpMxQ4rwvO3XpIUwr30T4c9prLX11Nfn7DFHg&s" alt="10fastfingers" height="35" width="35" /></a>
 </p>
 
 <h3 align="right">Languages and Tools:</h3>
@@ -39,5 +40,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabuhiteymurov&show_icons=true&locale=en&layout=compact" alt="sabuhiteymurov" /></p>
 
-<!-- 
+<!--
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sabuhiteymurov&" alt="sabuhiteymurov" /></p> -->
