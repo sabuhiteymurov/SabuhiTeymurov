@@ -1,7 +1,4 @@
-<h1 align="center">Hi there, I'm Sabuhi <img
-    src='https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430'
-    width='30'
-  /></h1> 
+<h1 align="center">Hi there, I'm Sabuhi 
 <h3 align="center">A passionate front-end web developer</h3>
 
  ![gitartwork](gitartwork.svg)
