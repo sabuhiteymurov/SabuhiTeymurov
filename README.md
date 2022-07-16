@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sabuhi 
-<h3 align="center">A passionate front-end web developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
  ![gitartwork](gitartwork.svg)
 
