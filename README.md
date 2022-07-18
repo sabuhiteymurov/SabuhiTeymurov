@@ -27,7 +27,6 @@
 <h3 align="right">Languages and Tools:</h3>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img align="right" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"  width="30px" height="30px"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="right" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /> </a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer" > <img align="right" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="30px" height="30px" align="right" style="padding-right:10px;"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="right" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30px" height="30px"/> </a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img align="right" alt="Redux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;" /> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img align="right" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> </a>
