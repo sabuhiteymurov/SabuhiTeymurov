@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node.js, Next.js**
 
-- 💬 Ask me about **Javascript, Advanced CSS**
+- 💬 Ask me about **Javascript, Advanced SCSS**
 
 - 📫 How to reach me **hello@sabuhiteymurov.tech**
 
