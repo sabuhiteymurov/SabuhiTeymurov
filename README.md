@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a private project**
 
-- 🌱 I’m currently learning **Node.js, Next.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **Javascript, Advanced SCSS**
 
