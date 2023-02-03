@@ -8,11 +8,7 @@
 <p align="left"> <a href="https://twitter.com/mr_teymurov" target="blank"><img src="https://img.shields.io/twitter/follow/mr_teymurov?logo=twitter&style=for-the-badge" alt="mr_teymurov" /></a> </p>
 
 - 🔭 I’m currently working on **a private project**
-
-- 🌱 I’m currently learning **Node.js**
-
-- 💬 Ask me about **Javascript, Advanced SCSS**
-
+ 
 - 📫 How to reach me **hello@sabuhiteymurov.tech**
 
 <br>
