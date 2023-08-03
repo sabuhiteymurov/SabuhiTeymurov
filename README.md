@@ -3,7 +3,6 @@
 
  ![gitartwork](gitartwork.svg)
 
-<br>
 <p align="left"> <a href="https://twitter.com/mr_teymurov" target="blank"><img src="https://img.shields.io/twitter/follow/mr_teymurov?logo=twitter&style=for-the-badge" alt="mr_teymurov" /></a> </p>
 
 - 🔭 I’m currently working on **a private project**
