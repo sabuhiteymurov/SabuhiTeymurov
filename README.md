@@ -3,13 +3,14 @@
 
  ![gitartwork](gitartwork.svg)
 
+ <br>
+
 <p align="left"> <a href="https://twitter.com/mr_teymurov" target="blank"><img src="https://img.shields.io/twitter/follow/mr_teymurov?logo=twitter&style=for-the-badge" alt="mr_teymurov" /></a> </p>
 
 - 🔭 I’m currently working on **a private project**
  
 - 📫 How to reach me **hello@sabuhiteymurov.com**
 
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sabuhi-teymurov/" target="blank"><img align="center" style="margin-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabuhi-teymurov-462097243" height="30" width="40" /></a>
