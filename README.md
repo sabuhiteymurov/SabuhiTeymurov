@@ -1,11 +1,7 @@
 <h1 align="center">Hi there, I'm Sabuhi 
 <h3 align="center">Software developer</h3>
 
- ![gitartwork](gitartwork.svg)
-
  <br>
-
-<p align="left"> <a href="https://twitter.com/mr_teymurov" target="blank"><img src="https://img.shields.io/twitter/follow/mr_teymurov?logo=twitter&style=for-the-badge" alt="mr_teymurov" /></a> </p>
 
 - 🔭 I’m currently working on **a private project**
  
@@ -18,21 +14,5 @@
 <a href="https://instagram.com/teymurov740" target="blank"><img align="center" style="margin-right:15px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teymurov740" height="30" width="40" /></a>
 <a href="https://10fastfingers.com/user/2843502/" target="blank"><img align="center" style="margin-right:10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLu0sfFZpMxQ4rwvO3XpIUwr30T4c9prLX11Nfn7DFHg&s" alt="10fastfingers" height="35" width="35" /></a>
 </p>
-
-<h3 align="right">Languages and Tools:</h3>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img align="right" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"  width="30px" height="30px"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="right" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="right" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30px" height="30px"/> </a>
-<a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img align="right" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestJS" width="30px" height="30px"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img align="right" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodeJS" width="30px" height="30px"/> </a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img align="right" alt="Redux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;" /> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img align="right" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextJS" width="30px" height="30px"/> </a>
-<a href="https://expo.dev/" target="_blank" rel="noreferrer"> <img align="right" alt="Expo" width="30px" src="https://seeklogo.com/images/E/expo-go-app-logo-BBBE394CB8-seeklogo.com.png" style="padding-right:10px;" /> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img align="right" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img align="right" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" /> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="right" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img align="right" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /> </a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabuhiteymurov&label=Profile%20views&color=0e75b6&style=flat" alt="sabuhiteymurov" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabuhiteymurov&show_icons=true&locale=en&layout=compact" alt="sabuhiteymurov" /></p>
